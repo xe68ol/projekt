@@ -1,0 +1,401 @@
+"Minority","Female","callback","Company_anonymous","Industry_broad","Employees","Private","Language_important"
+0,0,0,"a1","Retail",20,1,1
+0,0,0,"a10","Health care",25,0,0
+0,1,0,"a100","Health care",60,0,0
+0,1,0,"a101","Retail",7,1,0
+1,1,0,"a102","Retail",10,1,1
+0,1,0,"a103","Sales & related",55,1,1
+0,1,0,"a104","Construction & Extraction",55,1,0
+0,1,0,"a105","Construction & Extraction",10,1,1
+1,1,0,"a106","Construction & Extraction",64,1,1
+1,1,0,"a107","Construction & Extraction",62,1,0
+0,1,0,"a108","Construction & Extraction",51,1,1
+0,1,0,"a109","Health care",10,1,1
+1,0,0,"a11","Health care",25,0,0
+0,1,1,"a110","Sales & related",50,1,1
+0,1,0,"a111","Retail",10,0,0
+1,1,1,"a112","Retail",25,1,0
+0,1,0,"a113","Retail",50,1,0
+1,0,0,"a114","Retail",20,1,0
+1,1,1,"a115","Retail",7,1,1
+0,1,1,"a116","Retail",7,1,1
+0,0,0,"a117","Retail",30,1,1
+1,0,0,"a118","Construction & Extraction",56,1,0
+0,1,0,"a119","Sales & related",50,1,0
+1,0,1,"a12","Retail",10,1,1
+1,0,1,"a120","Construction & Extraction",62,1,0
+0,0,0,"a121","Health care",20,0,0
+0,1,1,"a122","Health care",50,0,0
+0,1,1,"a123","Health care",61,0,0
+0,0,1,"a124","Health care",62,0,0
+0,0,0,"a125","Health care",64,0,1
+0,1,0,"a126","Sales & related",60,1,1
+0,1,0,"a127","Sales & related",30,1,1
+1,1,1,"a128","Sales & related",89,1,1
+0,1,0,"a129","Sales & related",104,1,1
+1,0,0,"a13","Retail",93,1,1
+1,1,0,"a130","Sales & related",54,1,1
+0,0,1,"a131","Sales & related",50,1,1
+1,0,0,"a132","Education",20,1,1
+1,0,0,"a133","Retail",84,0,0
+0,0,0,"a134","Health care",10,1,0
+0,1,0,"a135","Education",58,1,1
+0,0,0,"a136","Education",20,0,1
+0,1,0,"a137","Education",20,0,1
+1,0,0,"a138","Education",10,1,1
+0,0,0,"a139","Education",10,0,1
+0,0,1,"a14","Retail",50,1,0
+1,0,1,"a140","Retail",54,1,1
+1,0,0,"a141","Retail",50,1,0
+0,1,0,"a142","Retail",50,1,1
+0,1,0,"a143","Retail",71,1,1
+0,0,0,"a144","Retail",15,1,0
+0,1,0,"a145","Retail",25,1,1
+1,0,0,"a146","Retail",25,1,1
+1,1,0,"a147","Retail",25,1,1
+0,0,1,"a148","Retail",10,1,1
+0,1,0,"a149","Retail",10,1,1
+0,0,0,"a15","Retail",52,1,1
+0,0,0,"a150","Construction & Extraction",67,1,0
+0,1,1,"a151","Retail",68,1,1
+1,0,0,"a152","Retail",15,1,1
+1,0,1,"a153","Retail",58,1,0
+0,1,0,"a154","Construction & Extraction",55,1,0
+1,0,0,"a155","Sales & related",10,1,0
+0,1,0,"a156","Health care",54,0,0
+1,1,0,"a157","Health care",15,0,0
+1,0,0,"a158","Construction & Extraction",57,1,0
+0,0,1,"a159","Construction & Extraction",97,1,1
+1,0,1,"a16","Administrative support",20,1,1
+1,1,1,"a160","Administrative support",52,1,1
+1,1,0,"a161","Administrative support",78,0,0
+1,0,0,"a162","Education",15,0,1
+0,0,1,"a163","Health care",51,0,0
+1,1,0,"a164","Health care",10,0,0
+1,0,0,"a165","Retail",71,0,1
+1,0,0,"a166","Retail",15,1,1
+1,0,0,"a167","Administrative support",96,1,0
+0,0,0,"a168","Administrative support",61,1,0
+0,1,0,"a169","Administrative support",54,1,1
+1,0,0,"a17","Administrative support",10,0,1
+1,0,0,"a170","Education",30,0,1
+1,1,0,"a171","Health care",25,0,0
+1,1,0,"a172","Health care",205,0,0
+1,0,0,"a173","Sales & related",55,1,1
+1,1,0,"a174","Sales & related",15,1,1
+1,0,1,"a175","Education",25,0,1
+1,1,0,"a176","Education",25,0,1
+1,0,1,"a177","Education",52,0,1
+0,0,1,"a178","Construction & Extraction",83,1,0
+0,1,1,"a179","Administrative support",59,1,0
+0,0,0,"a18","Administrative support",103,1,1
+0,1,0,"a180","Sales & related",3,1,1
+1,0,0,"a181","Sales & related",75,1,1
+0,1,0,"a182","Administrative support",60,1,1
+0,1,0,"a183","Administrative support",7,1,1
+0,0,0,"a184","Retail",60,1,0
+1,1,1,"a185","Administrative support",68,1,1
+1,0,0,"a186","Administrative support",30,1,1
+1,0,0,"a187","Health care",51,0,0
+0,0,0,"a188","Administrative support",50,1,1
+1,1,0,"a189","Administrative support",15,1,1
+1,0,0,"a19","Construction & Extraction",78,1,0
+1,0,0,"a190","Construction & Extraction",51,1,0
+0,0,0,"a191","Construction & Extraction",82,1,0
+1,0,0,"a192","Construction & Extraction",61,1,0
+0,1,0,"a193","Retail",10,1,1
+0,1,1,"a194","Administrative support",50,1,0
+0,0,0,"a195","Construction & Extraction",61,1,1
+1,1,1,"a196","Construction & Extraction",103,1,0
+1,0,0,"a197","Retail",61,1,0
+1,1,0,"a198","Construction & Extraction",71,1,1
+1,0,0,"a199","Retail",53,1,0
+1,0,0,"a2","Retail",10,1,1
+0,0,0,"a20","Construction & Extraction",20,1,0
+0,1,0,"a200","Construction & Extraction",71,1,0
+1,0,0,"a201","Construction & Extraction",63,1,0
+0,0,0,"a202","Construction & Extraction",69,1,1
+1,0,0,"a203","Construction & Extraction",60,1,0
+0,1,0,"a204","Sales & related",62,1,1
+0,1,1,"a205","Sales & related",25,1,0
+1,0,0,"a206","Sales & related",20,1,1
+0,1,0,"a207","Retail",57,1,1
+0,1,0,"a208","Retail",55,1,0
+0,1,0,"a209","Health care",53,0,1
+1,0,0,"a21","Retail",30,1,0
+0,1,1,"a210","Health care",68,0,0
+0,0,0,"a211","Construction & Extraction",51,0,0
+1,0,0,"a212","Retail",92,1,0
+1,0,1,"a213","Retail",59,1,0
+0,1,1,"a214","Retail",59,1,1
+1,1,0,"a215","Retail",56,1,0
+0,0,1,"a216","Retail",45,1,1
+0,1,0,"a217","Retail",89,1,0
+1,1,0,"a218","Retail",79,1,0
+1,1,0,"a219","Retail",65,1,1
+0,0,0,"a22","Retail",5,1,0
+0,0,0,"a220","Retail",53,1,0
+0,1,1,"a221","Retail",76,1,0
+1,1,0,"a222","Retail",10,1,0
+0,0,0,"a223","Retail",55,1,1
+1,0,0,"a224","Construction & Extraction",54,1,0
+1,1,0,"a225","Construction & Extraction",61,1,1
+0,1,1,"a226","Retail",15,1,1
+0,1,0,"a227","Retail",25,1,1
+0,1,0,"a228","Retail",10,1,0
+1,1,0,"a229","Retail",10,1,0
+0,0,0,"a23","Retail",10,1,0
+0,0,0,"a230","Retail",50,1,1
+0,0,0,"a231","Retail",54,1,0
+1,1,0,"a232","Administrative support",64,1,1
+1,0,0,"a233","Retail",50,1,0
+1,1,0,"a234","Administrative support",15,1,1
+0,1,0,"a235","Administrative support",55,0,0
+1,1,0,"a236","Administrative support",40,1,0
+1,0,0,"a237","Administrative support",50,1,1
+1,1,0,"a238","Administrative support",8,0,1
+1,1,0,"a239","Construction & Extraction",15,1,0
+1,0,0,"a24","Retail",5,1,1
+1,0,0,"a240","Retail",50,1,0
+1,1,1,"a241","Education",25,0,1
+0,1,0,"a242","Education",30,0,1
+0,0,0,"a243","Education",10,0,1
+1,1,0,"a244","Education",25,0,1
+0,0,1,"a245","Education",25,0,1
+1,0,0,"a246","Education",17,0,1
+1,1,0,"a247","Education",15,0,1
+0,1,0,"a248","Education",25,0,1
+0,1,0,"a249","Education",55,0,1
+0,0,1,"a25","Retail",5,1,1
+0,1,0,"a250","Health care",5,1,1
+1,1,0,"a251","Administrative support",50,0,0
+1,1,0,"a252","Administrative support",56,1,0
+0,1,0,"a253","Administrative support",60,1,1
+0,0,0,"a254","Administrative support",50,1,1
+0,0,1,"a255","Sales & related",60,1,1
+1,1,0,"a256","Education",50,0,1
+0,0,0,"a257","Sales & related",53,1,1
+1,1,0,"a258","Education",20,0,1
+0,1,1,"a259","Health care",50,0,0
+1,0,0,"a26","Retail",5,1,0
+0,0,0,"a260","Health care",56,0,0
+1,1,1,"a261","Health care",63,0,0
+1,1,0,"a262","Administrative support",81,1,1
+1,0,0,"a263","Administrative support",7,1,1
+0,0,1,"a264","Health care",25,0,0
+0,1,0,"a265","Health care",30,0,0
+1,0,0,"a266","Administrative support",124,1,1
+1,0,0,"a267","Administrative support",63,1,1
+1,1,1,"a268","Construction & Extraction",60,1,1
+1,1,0,"a269","Construction & Extraction",20,1,1
+1,0,0,"a27","Retail",5,0,0
+0,1,1,"a270","Sales & related",68,1,1
+0,1,1,"a271","Sales & related",NA,1,1
+1,0,0,"a272","Construction & Extraction",50,1,0
+1,0,0,"a273","Construction & Extraction",67,1,0
+1,1,1,"a274","Construction & Extraction",51,1,1
+0,1,0,"a275","Construction & Extraction",52,1,0
+1,1,0,"a276","Education",25,0,1
+0,1,1,"a277","Health care",54,0,0
+0,0,1,"a278","Retail",15,1,0
+0,1,0,"a279","Administrative support",99,1,1
+0,0,0,"a28","Retail",60,1,0
+0,0,1,"a280","Sales & related",103,1,1
+0,0,1,"a281","Construction & Extraction",121,1,1
+0,0,1,"a282","Health care",63,0,1
+0,0,1,"a283","Health care",59,0,1
+0,1,0,"a284","Administrative support",60,1,1
+0,1,0,"a285","Retail",NA,1,0
+1,0,0,"a286","Construction & Extraction",56,1,1
+1,0,0,"a287","Construction & Extraction",79,1,0
+1,0,1,"a288","Sales & related",55,1,0
+0,0,1,"a289","Construction & Extraction",72,1,0
+1,0,0,"a29","Retail",58,1,1
+0,1,0,"a290","Construction & Extraction",83,1,0
+1,0,0,"a291","Construction & Extraction",89,1,0
+0,0,1,"a292","Construction & Extraction",69,1,1
+0,0,0,"a293","Administrative support",68,1,1
+0,0,1,"a294","Construction & Extraction",69,1,1
+0,1,0,"a295","Construction & Extraction",58,1,1
+1,1,1,"a296","Construction & Extraction",53,1,1
+0,0,0,"a297","Retail",51,1,0
+1,0,0,"a298","Construction & Extraction",53,1,0
+0,0,0,"a299","Construction & Extraction",79,1,0
+0,0,0,"a3","Retail",26,1,0
+1,0,0,"a30","Retail",52,1,0
+0,0,0,"a300","Construction & Extraction",67,1,0
+0,1,1,"a301","Education",30,0,1
+0,1,0,"a302","Administrative support",89,1,0
+0,1,1,"a303","Construction & Extraction",60,1,0
+1,1,1,"a304","Construction & Extraction",67,1,0
+0,1,0,"a305","Education",30,1,1
+1,1,1,"a306","Education",60,0,1
+1,0,1,"a307","Education",25,0,1
+1,0,0,"a308","Sales & related",154,1,1
+1,1,0,"a309","Construction & Extraction",73,1,0
+1,0,1,"a31","Retail",10,1,1
+0,1,0,"a310","Construction & Extraction",67,1,0
+1,0,0,"a311","Education",55,0,1
+1,0,0,"a312","Administrative support",61,1,1
+0,0,0,"a313","Construction & Extraction",56,1,0
+1,0,0,"a314","Administrative support",60,1,1
+0,0,0,"a315","Administrative support",52,1,1
+1,1,0,"a316","Administrative support",76,1,1
+1,1,0,"a317","Construction & Extraction",57,1,0
+1,0,0,"a318","Retail",58,1,0
+0,1,1,"a319","Sales & related",25,1,1
+0,0,0,"a32","Sales & related",30,1,0
+1,0,1,"a320","Sales & related",51,1,1
+0,0,0,"a321","Construction & Extraction",61,1,0
+1,1,1,"a322","Construction & Extraction",72,1,0
+1,0,0,"a323","Education",60,0,1
+1,0,1,"a324","Education",35,0,1
+0,0,0,"a325","Administrative support",51,1,1
+1,0,0,"a326","Administrative support",57,1,1
+1,0,0,"a327","Retail",35,1,1
+1,1,0,"a328","Health care",119,0,1
+1,0,0,"a329","Health care",25,0,1
+1,0,0,"a33","Construction & Extraction",56,1,0
+1,0,0,"a330","Health care",107,1,1
+1,1,0,"a331","Health care",25,0,1
+1,0,0,"a332","Administrative support",25,1,0
+0,0,0,"a333","Education",71,0,1
+1,0,0,"a334","Sales & related",61,1,1
+1,0,0,"a335","Construction & Extraction",54,1,1
+0,0,1,"a336","Administrative support",51,1,1
+1,0,1,"a337","Health care",64,0,1
+1,1,1,"a338","Health care",55,0,1
+0,0,0,"a339","Retail",55,0,0
+0,0,0,"a34","Construction & Extraction",20,1,0
+1,1,0,"a340","Construction & Extraction",54,1,1
+1,0,0,"a341","Construction & Extraction",75,1,1
+1,1,0,"a342","Construction & Extraction",53,1,0
+1,0,0,"a343","Construction & Extraction",63,1,0
+1,1,0,"a344","Education",62,0,1
+1,0,0,"a345","Administrative support",57,1,1
+1,0,0,"a346","Administrative support",72,1,1
+0,1,1,"a347","Administrative support",81,0,1
+1,1,1,"a348","Construction & Extraction",66,1,0
+1,0,1,"a349","Health care",72,0,0
+0,0,0,"a35","Construction & Extraction",15,1,0
+1,1,0,"a350","Administrative support",56,1,1
+1,0,0,"a351","Administrative support",35,1,1
+0,0,1,"a352","Construction & Extraction",51,1,0
+1,0,0,"a353","Administrative support",15,1,1
+1,0,1,"a354","Sales & related",51,1,1
+1,0,0,"a355","Sales & related",15,1,1
+1,1,1,"a356","Sales & related",30,1,1
+0,0,1,"a357","Sales & related",25,1,1
+1,0,0,"a358","Construction & Extraction",135,1,0
+1,1,1,"a359","Health care",40,1,0
+1,0,0,"a36","Construction & Extraction",88,1,0
+1,1,1,"a360","Health care",105,0,0
+0,0,0,"a361","Administrative support",122,1,1
+0,1,0,"a362","Administrative support",57,0,1
+0,1,0,"a363","Construction & Extraction",85,1,1
+0,0,0,"a364","Education",84,0,1
+1,0,0,"a365","Administrative support",30,1,0
+1,0,0,"a366","Administrative support",62,1,1
+0,0,0,"a367","Administrative support",60,1,0
+1,0,0,"a368","Construction & Extraction",60,1,0
+1,1,1,"a369","Health care",112,0,0
+0,0,0,"a37","Sales & related",110,1,1
+1,0,0,"a370","Health care",25,0,0
+1,1,0,"a371","Education",25,1,1
+1,0,0,"a372","Health care",69,0,0
+0,1,1,"a373","Health care",54,0,0
+0,0,1,"a374","Construction & Extraction",60,1,1
+0,0,0,"a375","Construction & Extraction",68,1,0
+1,1,1,"a376","Sales & related",108,1,1
+0,0,0,"a377","Administrative support",25,1,1
+1,0,0,"a378","Construction & Extraction",53,1,0
+1,0,0,"a379","Health care",83,0,0
+0,1,0,"a38","Retail",25,1,1
+1,0,0,"a380","Administrative support",15,1,0
+0,1,0,"a381","Sales & related",95,1,1
+1,0,0,"a382","Education",59,1,1
+1,1,0,"a383","Construction & Extraction",60,1,1
+0,0,0,"a384","Administrative support",25,1,1
+0,1,1,"a385","Administrative support",60,1,0
+1,0,0,"a386","Construction & Extraction",51,1,0
+0,1,0,"a387","Construction & Extraction",9,1,1
+1,1,0,"a388","Construction & Extraction",3,1,1
+0,0,1,"a389","Retail",15,1,1
+1,1,0,"a39","Retail",25,1,1
+0,1,0,"a390","Retail",25,1,0
+0,0,0,"a391","Retail",76,1,0
+0,0,0,"a392","Retail",16,1,0
+0,1,1,"a393","Health care",53,0,0
+1,1,0,"a394","Health care",50,0,0
+1,0,0,"a395","Health care",79,0,0
+0,1,0,"a396","Health care",50,0,0
+0,0,1,"a397","Health care",30,0,0
+0,0,0,"a398","Health care",35,0,0
+0,0,0,"a399","Health care",30,0,0
+1,0,0,"a4","Construction & Extraction",57,0,0
+0,1,0,"a40","Education",51,0,1
+0,0,0,"a400","Health care",70,0,0
+0,1,0,"a41","Education",25,0,1
+0,1,0,"a42","Construction & Extraction",6,1,0
+1,1,0,"a43","Retail",82,1,1
+1,1,0,"a44","Retail",25,1,1
+1,1,0,"a45","Retail",8,1,1
+0,1,0,"a46","Retail",85,1,1
+0,1,0,"a47","Retail",65,1,0
+0,1,0,"a48","Retail",20,1,0
+0,1,1,"a49","Retail",78,1,0
+0,0,1,"a5","Health care",50,0,0
+1,0,0,"a50","Retail",56,1,0
+1,0,1,"a51","Education",9,0,1
+1,0,0,"a52","Education",50,0,1
+0,0,0,"a53","Education",25,0,1
+0,0,0,"a54","Administrative support",30,0,0
+0,0,1,"a55","Sales & related",67,1,1
+0,0,1,"a56","Sales & related",72,1,1
+1,0,0,"a57","Sales & related",58,1,1
+1,0,0,"a58","Education",15,0,1
+0,0,1,"a59","Education",30,0,1
+1,0,1,"a6","Health care",20,0,0
+0,0,1,"a60","Education",53,0,1
+0,0,1,"a61","Education",52,0,1
+0,0,1,"a62","Health care",25,0,0
+0,0,0,"a63","Health care",7,1,0
+0,0,0,"a64","Health care",30,0,0
+1,0,0,"a65","Health care",25,0,0
+0,1,0,"a66","Sales & related",10,0,1
+1,1,0,"a67","Sales & related",10,1,1
+1,1,0,"a68","Administrative support",58,1,1
+0,1,0,"a69","Administrative support",15,1,0
+0,0,1,"a7","Health care",25,0,0
+0,1,1,"a70","Education",50,0,1
+0,1,1,"a71","Construction & Extraction",10,1,0
+0,1,1,"a72","Retail",30,0,1
+1,1,0,"a73","Retail",65,1,1
+1,1,1,"a74","Retail",30,1,1
+0,1,0,"a75","Education",30,0,1
+1,1,1,"a76","Retail",30,1,1
+0,1,1,"a77","Education",55,0,1
+1,1,0,"a78","Health care",25,0,0
+0,1,0,"a79","Education",15,0,1
+0,0,0,"a8","Retail",41,1,0
+0,1,0,"a80","Education",20,0,1
+1,1,0,"a81","Administrative support",50,1,1
+0,1,0,"a82","Education",15,0,1
+1,1,0,"a83","Construction & Extraction",58,1,1
+1,1,0,"a84","Construction & Extraction",93,1,1
+0,1,1,"a85","Retail",64,1,1
+0,1,0,"a86","Education",50,0,1
+1,1,0,"a87","Education",50,0,1
+1,1,1,"a88","Education",53,0,1
+0,1,0,"a89","Administrative support",3,1,1
+0,0,1,"a9","Health care",25,0,0
+0,1,1,"a90","Administrative support",15,1,1
+1,1,0,"a91","Administrative support",73,1,1
+0,1,0,"a92","Administrative support",123,0,1
+1,1,0,"a93","Administrative support",25,0,1
+0,1,0,"a94","Education",30,0,1
+1,1,0,"a95","Education",30,0,1
+1,1,0,"a96","Retail",5,0,0
+1,1,0,"a97","Retail",25,1,1
+0,1,0,"a98","Retail",7,1,1
+0,1,0,"a99","Health care",5,1,0
